@@ -22,8 +22,6 @@ Frontend
 Diğer
 - REST API
 - Git / GitHub
-## Uygulama Görüntüsü
-[Hastane Sıra Takip Sistemi](images/Ekran görüntüsü 2026-03-13 221349.png)
 ## Proje Özellikleri
 
 - Hastaların sırada bekleme listesini gösterir
